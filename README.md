@@ -41,7 +41,7 @@ The tests tools can be found at ./package.json on the devDependencies section.
 
 ## The Solution
 This project was mainly implemented with:
-* react.js - as the main framework, and bootraped with create-react-app;
+* react.js - as the main framework, and bootstraped with create-react-app;
 * redux - for state management;
 * react-router - for route management;
 * sass (via the node-sass lib) - for styling
